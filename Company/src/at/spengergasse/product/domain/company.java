@@ -6,6 +6,9 @@ public class Company
 {
 	private ArrayList products;
 	
+	private String name;
+	name = "IBM"
+	
 	public Company()
 	{}
 }
