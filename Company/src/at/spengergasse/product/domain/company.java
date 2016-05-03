@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Company
 {
-	private LinkedList products;
+	private TreeSet products;
 	
 	private String name;
 	name = "IBM"
