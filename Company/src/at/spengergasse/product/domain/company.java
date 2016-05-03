@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Company
 {
-	private ArrayList products;
+	private LinkedList products;
 	
 	private String name;
 	name = "IBM"
